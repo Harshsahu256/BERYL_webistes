@@ -1,0 +1,6 @@
+{
+  "name": "Beryl Drugs Limited",
+  "description": "Corporate disclosures, statutory financial filings, compliance notices, and investor portal for Beryl Drugs Limited (BSE: 524680).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
