@@ -9,6 +9,8 @@ import categoryRoutes from './server/routes/categoryRoutes';
 import subcategoryRoutes from './server/routes/subcategoryRoutes';
 import pdfRoutes from './server/routes/pdfRoutes';
 import contentRoutes from './server/routes/contentRoutes';
+import directorsRouter from './server/routes/directors';
+
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -29,6 +31,7 @@ async function startServer() {
   app.use('/api/subcategories', subcategoryRoutes);
   app.use('/api/pdfs', pdfRoutes);
   app.use('/api', contentRoutes);
+app.use('/api/directors', directorsRouter);     // <-- 2. Register करें
 
   // ====================================================
   // VITE DEV MIDDLEWARE & PRODUCTION SPA FALLBACK

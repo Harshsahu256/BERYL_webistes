@@ -44,8 +44,8 @@ export function generateAndDownloadPdf(doc: PdfDocument) {
   pdf.setFont('helvetica', 'normal');
   pdf.setFontSize(8.5);
   pdf.setTextColor(71, 85, 105);
-  pdf.text('CIN: L02423MP1993PLC007840  |  BSE Scrip Code: 524680  |  ISIN: INE415D01017', pageWidth / 2, margin + 21, { align: 'center' });
-  pdf.text('Regd. Office: 29, Neer Nagar, Mayank Water Park Road, Bicholi, Indore - 452016 (M.P.) India', pageWidth / 2, margin + 25, { align: 'center' });
+  pdf.text('CIN: L02423MP1993PLC007840  |  BSE Scrip Code: 524606  |  ISIN: INE415H01017', pageWidth / 2, margin + 21, { align: 'center' });
+  pdf.text('Regd. Office: Registered office 29, neer nagar, mayank water park road, bicholi, indore- 452016 MP', pageWidth / 2, margin + 25, { align: 'center' });
   pdf.text('Website: www.beryldrugs.com  |  Email: info@beryldrugs.com', pageWidth / 2, margin + 29, { align: 'center' });
 
   // Divider Line

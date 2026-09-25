@@ -73,8 +73,8 @@ export const ContactUsView: React.FC = () => {
               Our parenteral and sterile formulation facility is situated at the Bicholi pharmaceutical industrial hub in Indore, Madhya Pradesh.
             </p>
             <div className="bg-white p-4 rounded-xl border border-slate-200 text-xs space-y-2 font-medium">
-              <p><strong className="text-slate-900">BSE Stock Exchange Scrip Code:</strong> <span className="text-blue-600 font-bold">524680</span></p>
-              <p><strong className="text-slate-900">ISIN Security Number:</strong> INE415D01017</p>
+              <p><strong className="text-slate-900">BSE Stock Exchange Scrip Code:</strong> <span className="text-blue-600 font-bold">524606</span></p>
+              <p><strong className="text-slate-900">ISIN Security Number:</strong> INE415H01017</p>
               <p><strong className="text-slate-900">Corporate Identity Number (CIN):</strong> L02423MP1993PLC007840</p>
             </div>
           </div>

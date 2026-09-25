@@ -24,10 +24,10 @@ export const Footer: React.FC = () => {
             </p>
             <div className="pt-2 flex items-center space-x-2">
               <span className="bg-blue-500/20 text-blue-300 font-bold px-2.5 py-1 rounded-md text-[10px] border border-blue-500/30">
-                BSE CODE: 524680
+                BSE CODE: 524606
               </span>
               <span className="bg-slate-800 text-slate-300 font-bold px-2.5 py-1 rounded-md text-[10px] border border-slate-700">
-                ISIN: INE415D01017
+                ISIN: INE415H01017
               </span>
             </div>
           </div>
@@ -49,7 +49,7 @@ export const Footer: React.FC = () => {
             <div className="space-y-2 text-xs text-slate-400 font-medium">
               <p className="flex items-start space-x-2">
                 <MapPin className="w-4 h-4 text-blue-400 shrink-0 mt-0.5" />
-                <span>29, Neer Nagar, Mayank Water Park Road, Bicholi, Indore - 452016 (M.P.) India</span>
+                <span>Registered office 29, neer nagar, mayank water park road, bicholi, indore- 452016 MP</span>
               </p>
               <p className="flex items-center space-x-2">
                 <Mail className="w-4 h-4 text-blue-400 shrink-0" />

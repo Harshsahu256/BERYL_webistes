@@ -608,5 +608,27 @@
       "year": "2021-2022",
       "fileSize": "1.0 MB"
     }
+  ],
+  "directors": [
+    {
+      "id": "dir-1",
+      "name": "Mr. Sudhir Sethi",
+      "designation": "Chairman & Director"
+    },
+    {
+      "id": "dir-2",
+      "name": "Mr. Sanjay Sethi",
+      "designation": "Managing Director"
+    },
+    {
+      "id": "dir-3",
+      "name": "Mr. Abhinav Naik",
+      "designation": "Independent Director"
+    },
+    {
+      "id": "dir-4",
+      "name": "Ms. Shreya Saraf",
+      "designation": "Independent Director"
+    }
   ]
 }

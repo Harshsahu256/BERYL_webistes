@@ -4,7 +4,7 @@ export const HERO_SLIDES: HeroSlide[] = [
   {
     id: 'slide-1',
     title: 'BERYL DRUGS LIMITED',
-    subtitle: 'WHO-GMP & ISO 9001:2015 Certified Pharmaceutical Manufacturing Enterprise (BSE: 524680)',
+    subtitle: 'WHO-GMP & ISO 9001:2015 Certified Pharmaceutical Manufacturing Enterprise (BSE: 524606)',
     imageUrl: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?auto=format&fit=crop&w=1600&q=80',
   },
   {

@@ -98,7 +98,7 @@ export const HeroSlider: React.FC<HeroSliderProps> = ({ customTitle }) => {
                 {displayTitle}
               </h2>
               <p className="text-[11px] text-slate-400 font-medium">
-                Official SEBI & Stock Exchange Compliance Records (BSE: 524680)
+                Official SEBI & Stock Exchange Compliance Records (BSE: 524606)
               </p>
             </div>
           </div>
@@ -123,3 +123,4 @@ export const HeroSlider: React.FC<HeroSliderProps> = ({ customTitle }) => {
     </div>
   );
 };
+

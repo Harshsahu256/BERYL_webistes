@@ -1,3 +1,6 @@
+
+
+
 import React, { useState, useEffect, useRef } from 'react';
 import { PdfDocument } from '../types';
 import { 
@@ -319,8 +322,8 @@ export const PdfViewerModal: React.FC<PdfViewerModalProps> = ({
                   </div>
                   <div className="text-right text-[11px] text-slate-500">
                     <p className="font-bold text-blue-600">BSE LISTED ENTITY</p>
-                    <p>Scrip Code: 524680</p>
-                    <p>ISIN: INE415D01017</p>
+                    <p>Scrip Code: 524606</p>
+                    <p>ISIN: INE415H01017</p>
                   </div>
                 </div>
 

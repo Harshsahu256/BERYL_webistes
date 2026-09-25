@@ -34,7 +34,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center space-x-3 text-slate-300">
             <span className="inline-flex items-center space-x-1 bg-blue-500/20 text-blue-300 font-semibold px-2.5 py-0.5 rounded-full border border-blue-500/30 text-[11px]">
               <TrendingUp className="w-3 h-3 mr-1 text-blue-400" />
-              <span>BSE Code: 524680</span>
+              <span>BSE Code: 524606</span>
             </span>
             <span className="hidden md:inline-flex items-center space-x-1 text-slate-400 text-[11px]">
               <Award className="w-3 h-3 text-[#38bdf8]" />

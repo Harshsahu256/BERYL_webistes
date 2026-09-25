@@ -32,7 +32,7 @@ export const HomeView: React.FC<HomeViewProps> = ({
 
           <div className="flex items-center space-x-2 self-start sm:self-auto">
             <span className="bg-blue-100 text-blue-900 font-bold px-3 py-1 rounded-full text-xs border border-blue-200">
-              BSE Scrip: 524680
+              BSE Scrip: 524606
             </span>
           </div>
         </div>
